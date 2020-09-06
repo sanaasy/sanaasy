@@ -3,10 +3,10 @@
 Welcome to my profile! I'm a Dev Degree intern/backend developer @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /> and a CS sophmore. 🌱 I’m currently learning about product management and AR/VR! Connect with me here: 
 
 <a href="https://www.linkedin.com/in/sanaasy/">
-  <img align="left" width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  <img text-align="center" width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://medium.com/@sanaasyed">
-  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+  <img text-align="center" width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
 
 <!--
