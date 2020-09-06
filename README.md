@@ -1,13 +1,13 @@
 ## Hi I'm Sanaa 👋
 
+Welcome to my profile! I'm a Dev Degree intern/backend developer @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /> and a CS sophmore. 🌱 I’m currently learning about product management and AR/VR! Connect with me here: 
+
 <a href="https://www.linkedin.com/in/sanaasy/">
   <img align="left" width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://medium.com/@sanaasyed">
-  <img align="left" width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
-
-Welcome to my profile! I'm a Dev Degree intern/backend developer @ Shopify ![]() and a sophmore at Carleton University . I'm currently learning about product management, AR/VR  and UI/UX! I am an active lead in driving social impact and supporting/guiding girls into STEM fields. My hobbies are photography , writing and playing the guitar .
 
 <!--
 **sanaasy/sanaasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
