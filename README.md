@@ -2,17 +2,20 @@
 
 Welcome to my profile! I'm a Dev Degree intern/backend developer @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /> and a CS sophmore. 🌱 I’m currently learning about product management and AR/VR! Connect with me here:mailbox_with_mail:: 
 
-<a href="https://www.linkedin.com/in/sanaasy/">
-  <img style="left: 50%;" width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanaasy/">
+    <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+  </a>
+  <a href="https://medium.com/@sanaasyed">
+    <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+  </a>
+</p>
 
 > and check out my repos here :arrow_down:
 
 <!--
 **sanaasy/sanaasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://medium.com/@sanaasyed">
-  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
