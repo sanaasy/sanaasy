@@ -1,5 +1,5 @@
 ## Hi I'm Sanaa 👋
--------
+
 <a href="https://www.linkedin.com/in/sanaasy/">
   <img align="left" width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
