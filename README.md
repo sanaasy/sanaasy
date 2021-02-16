@@ -12,7 +12,7 @@ Welcome to my profile! I'm a Dev Degree intern/backend developer @ Shopify <img 
 </p>
 
 <p align="center">
-  <a href="sanaasy.github.io">
+  <a href="https://sanaasy.github.io/">
       personal website
   </a>
 </p>
