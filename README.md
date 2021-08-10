@@ -1,6 +1,6 @@
 ## Hi I'm Sanaa 👋
 
-Welcome to my profile! I'm a Dev Degree intern/backend developer @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /> and a CS sophmore. 🌱 I’m currently learning about product management and AR/VR! Connect with me here:mailbox_with_mail:: 
+Welcome to my profile! I'm a Dev Degree intern/mobile developer @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /> and a CS junior. 🌱 I’m currently learning about product management and AR/VR! Connect with me here:mailbox_with_mail:: 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanaasy/">
