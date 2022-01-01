@@ -1,7 +1,9 @@
 ## Hi I'm Sanaa 👋
 
-Welcome to my profile! I'm a Dev Degree intern/mobile developer @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /> and a CS junior. 🌱 I’m currently learning about product management and AR/VR! Connect with me here:mailbox_with_mail:: 
-
+Welcome to my profile! I'm a Product Engineering Intern @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /> and a Computer Science junior. 
+- 🌱 I’m currently learning about product management and AR/VR! 
+- 🔭 I’m currently working on creating a mobile app for CommonLit to help over 200,000 students in Latin America access educational resources.
+- 📫 Connect with me here:
 <p align="center">
   <a href="https://www.linkedin.com/in/sanaasy/">
     <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
@@ -12,6 +14,7 @@ Welcome to my profile! I'm a Dev Degree intern/mobile developer @ Shopify <img w
 </p>
 
 <p align="center">
+  or come check out my online porfolio!
   <a href="https://sanaa.tech/">
       personal website
   </a>
