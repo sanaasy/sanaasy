@@ -3,15 +3,16 @@
 <p><em>Product Engineering Intern @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /></br>
 Junior at Carleton University studying Computer Science and Business.</em></p> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaasy/)
-[![Medium](	https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanaasyed)
-[![Personal Website](https://img.shields.io/badge/Personal&nbsp;Website-732C2C?logo=About.me&logoColor=white)](https://sanaa.tech/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaasy/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanaasyed)
+[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/sanaasyed)
+[![Personal Website](https://img.shields.io/badge/Personal&nbsp;Website-732C2C?style=for-the-badge&logo=About.me&logoColor=white)](https://sanaa.tech/)
 
 📫: sanaasyed.t@gmail.com
 
 ### What I'm up to 🚀
-- 🌱 I’m currently learning about product management and AR/VR! 
-- 🔭 I’m currently working on creating a mobile app for CommonLit to help over 200,000 students in Latin America access educational resources.
+- 🌱 I’m learning about product management and AR/VR! 
+- 🔭 I’m working on creating a mobile app for CommonLit to help over 200,000 students in Latin America access educational resources.
 
 ### Programming Languages & Frameworks 👩🏻‍💻
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -43,5 +44,5 @@ Junior at Carleton University studying Computer Science and Business.</em></p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaasy&layout=compact)](https://github.com/sanaasy/github-readme-stats) -->
 <!-- [![Sanaa's github stats](https://github-readme-stats.vercel.app/api?username=sanaasy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/sanaasy) -->
-
-> and check out my repos here :arrow_down:
+<!-- 
+> and check out my repos here :arrow_down: -->
