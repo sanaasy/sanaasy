@@ -15,7 +15,7 @@ Junior at Carleton University studying Computer Science and Business.</em></p>
 - 🌱 I’m learning about product management and AR/VR! 
 - 🔭 I’m working on creating a mobile app for CommonLit to help over 200,000 students in Latin America access educational resources. -->
 
-### Programming Languages & Frameworks 👩🏻‍💻
+<!-- ### Programming Languages & Frameworks 👩🏻‍💻
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,7 +38,7 @@ Junior at Carleton University studying Computer Science and Business.</em></p>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 
 <!-- ### Github Stats 📊
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanaasy)](https://git.io/streak-stats) -->
