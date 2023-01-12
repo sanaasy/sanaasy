@@ -1,7 +1,7 @@
 # Hi I'm Sanaa 👋
 
-<p><em>Product Engineering Intern @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /></br>
-Junior at Carleton University studying Computer Science and Business.</em></p> 
+<p><em>Data Science Intern @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /></br>
+4th year student at Carleton University studying Computer Science and Business.</em></p> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaasy/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanaasyed)
