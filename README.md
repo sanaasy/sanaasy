@@ -1,7 +1,7 @@
 # Hi I'm Sanaa 👋
 
 <p><em>Senior Infrastructure Engineer @ Shopify <img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /></br>
-Carleton University Alumni - Computer Science and Business (Dec 2022).</em></p> 
+Carleton University Alumni - Computer Science and Business.</em></p> 
 
 Previously, I worked in backend development, mobile development and data science.
 
