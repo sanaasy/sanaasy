@@ -1,6 +1,6 @@
 # Hi I'm Sanaa 👋
 
-<p><em>Senior Infrastructure Engineer<img width="15px" src="https://github.com/sanaasy/sanaasy/blob/master/images/shopify.svg" /></br>
+<p><em>Senior Infrastructure Engineer</br>
 Carleton University Alumni - Computer Science and Business.</em></p> 
 
 Previously, I worked in backend development, mobile development and data science.
